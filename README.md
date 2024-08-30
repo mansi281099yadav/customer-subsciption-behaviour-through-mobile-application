@@ -1,1 +1,1 @@
-# customer-subsciption-behaviour-through-mobile-application
+# customer-subscription-behaviour-through-mobile-application
